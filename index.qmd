@@ -1,5 +1,3 @@
-
-
 ### UEA : unité d'enregistrement autonome
 
 Cet appareil enregistre le chant des oiseaux, il nous sert d'oreille et nous aide à savoir quelles espèces et combien d'oiseaux sont présents!
