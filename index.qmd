@@ -1,10 +1,8 @@
----
-title: "Les sons de Montréal"
----
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+### UEA : unité d'enregistrement autonome
+
+Cet appareil enregistre le chant des oiseaux, il nous sert d'oreille et nous aide à savoir quelles espèces et combien d'oiseaux sont présents!
 
 ```{r}
 1 + 1
